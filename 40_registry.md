@@ -5,4 +5,6 @@ permalink: /registry/
 main_nav: true
 ---
 
-Here lives a registry
+## [Amazon Registry](https://www.amazon.com/registry/wedding/KH2H6JG5VK0L)
+
+## [Macy's Registry](http://www1.macys.com/registry/wedding/guest/?registryId=6554215)

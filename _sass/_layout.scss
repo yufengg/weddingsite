@@ -39,7 +39,7 @@ pre code.hljs {
 }
 
 .page-divider {
-	$divider-color: $light-gray;
+	$divider-color: $medium-gray;
   display: block;
   width: 50%;
   margin-left: auto;
@@ -60,7 +60,7 @@ pre code.hljs {
     position: relative;
     top: -26px;
     display: block;
-    background: $white;
+    background: $gold;
     width: 16px;
     height: 16px;
     margin-left: auto;
@@ -87,7 +87,7 @@ pre code.hljs {
 	.scrim {
 		padding: 3em 1em;
 		&.has-cover {
-			background-color: rgba(0,0,0,0.2);
+		background-color: rgba(0,0,0,0.2);
 			padding: 6em 1em !important;
 			@include media($tablet) {
 				padding: 9em 1em !important;
@@ -224,7 +224,7 @@ pre code.hljs {
 	.pagination {
 		padding-top: 2em;
 		text-align: center;
-		color: $medium-gray;
+		color: $dark-gray;
 		.page-number {
 			padding: 0 1em;
 		}
@@ -347,7 +347,7 @@ pre code.hljs {
 *	Footer
 */
 .site-footer {
-	$link-color: $white;
+	$link-color: $dark-gray;
 	padding: 1em 1em 2em 1em;
 	background-color: $highlight-color;
 	color: $white;

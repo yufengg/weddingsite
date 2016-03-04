@@ -32,6 +32,7 @@ $green: #27ae60;	  	// Nephritis
 $blue: #2980b9;				// Belize Hole
 $purple: #8e44ad;			// Wisteria
 $orange: #d35400;			// Pumpkin
+$gold: #f39c12;				// Orange
 $red:	#c0392b;				// Pomegranate
 $gray: #7f8c8d;				// Asbestos
 // Even more colors
@@ -40,7 +41,7 @@ $bc-red: #bc0000;
 // Font Colors
 $base-background-color: #fff;
 $base-font-color: $dark-gray;
-$action-color: $blue;
+$action-color: $gold;
 $highlight-color: tint($action-color, 33%);
 
 // Border
