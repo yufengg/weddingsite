@@ -84,7 +84,7 @@ $(document).ready(function() {
   ga('create', '{{ site.ga_tracking_id }}', 'auto');
   ga('send', 'pageview', {
     'page': '{{ page.url }}',
-    'title': '{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}'
+    'title': "{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}"
   });
 </script>
 {% endif %}
