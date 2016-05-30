@@ -33,7 +33,7 @@ Phone: 540-400-6226
 
 ### [Hotel Roanoke](http://www.hotelroanoke.com/): Caffrey Guo Wedding
 
-**[Click here for group rate](http://group.curiocollection.com/CaffreyGuo)**
+[Online Reservations](http://group.curiocollection.com/CaffreyGuo)
 
 110 Shenandoah Ave NW, Roanoke, VA 24016
 
@@ -43,20 +43,11 @@ Phone: 540-985-5900
 
 ### [Hilton Garden Inn](http://hiltongardeninn.hilton.com/en/gi/groups/personalized/R/ROAGIGI-CAFGUO-20160701/index.jhtml?WT.mc_id=POG): Caffrey Guo Wedding
 
+[Online Reservations](http://hiltongardeninn.hilton.com/en/gi/groups/personalized/R/ROAGIGI-CAFGUO-20160701/index.jhtml?WT.mc_id=POG)
+
 4500 South Peak Blvd, Roanoke, Virginia 24018
 
 King/Double Queen: $109/night
 
 Phone: 540-776-3400 or 853-530-1049
 
-[Online Reservations](http://hiltongardeninn.hilton.com/en/gi/groups/personalized/R/ROAGIGI-CAFGUO-20160701/index.jhtml?WT.mc_id=POG), use Code: CAFGUO
-
-### [Hampton Inn and Suites Roanoke Downtown](http://hamptoninn3.hilton.com/en/hotels/virginia/hampton-inn-and-suites-roanoke-downtown-ROARDHX/index.html)
-
-27 Church Avenue SE, Roanoke, Virginia, 24011
-
-King/Double Queen: $149
-
-Phone: 540-400-6000
-
-We will be getting a room block for $149 (contract pending), but you can book online directly now, if you wish.
