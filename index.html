@@ -41,6 +41,7 @@ layout: default
   {% endfor %}
 </ul>
 
+{% if paginator.posts %}
 <nav class="pagination" role="navigation">
   <p>
     {% if paginator.next_page %}
@@ -84,6 +85,7 @@ layout: default
     <a href="{{ site.baseurl }}/updates">View All Posts by Category</a>
   </p>
 </nav>
+{% endif %}
 
 </div>
 </div>
